@@ -1,0 +1,245 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "jkh",
+            "request": "launch",
+            "mainClass": "jkh",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "CodesCracker",
+            "request": "launch",
+            "mainClass": "CodesCracker",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "suvb",
+            "request": "launch",
+            "mainClass": "suvb",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "coff",
+            "request": "launch",
+            "mainClass": "coff",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "dhdgh",
+            "request": "launch",
+            "mainClass": "dhdgh",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "start5",
+            "request": "launch",
+            "mainClass": "start5",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "start4",
+            "request": "launch",
+            "mainClass": "start4",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "start3",
+            "request": "launch",
+            "mainClass": "start3",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "start2",
+            "request": "launch",
+            "mainClass": "start2",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "start",
+            "request": "launch",
+            "mainClass": "start",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "jj",
+            "request": "launch",
+            "mainClass": "jj",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "kjdfghjlj",
+            "request": "launch",
+            "mainClass": "kjdfghjlj",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "jaca",
+            "request": "launch",
+            "mainClass": "jaca",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "njfeu",
+            "request": "launch",
+            "mainClass": "njfeu",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "practi",
+            "request": "launch",
+            "mainClass": "practi",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "charpattern",
+            "request": "launch",
+            "mainClass": "charpattern",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "numberpattern",
+            "request": "launch",
+            "mainClass": "numberpattern",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "hghhy",
+            "request": "launch",
+            "mainClass": "hghhy",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "pat",
+            "request": "launch",
+            "mainClass": "pat",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "rish",
+            "request": "launch",
+            "mainClass": "rish",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "square",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "subject",
+            "request": "launch",
+            "mainClass": "subject",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "even",
+            "request": "launch",
+            "mainClass": "even",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "kjhl",
+            "request": "launch",
+            "mainClass": "kjhl",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "multiply",
+            "request": "launch",
+            "mainClass": "multiply",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "natural",
+            "request": "launch",
+            "mainClass": "natural",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "odd",
+            "request": "launch",
+            "mainClass": "odd",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "practise",
+            "request": "launch",
+            "mainClass": "practise",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "sumeven",
+            "request": "launch",
+            "mainClass": "sumeven",
+            "projectName": "loops.java_91554b15"
+        },
+        {
+            "type": "java",
+            "name": "sumodd",
+            "request": "launch",
+            "mainClass": "sumodd",
+            "projectName": "loops.java_91554b15"
+        }
+    ]
+}

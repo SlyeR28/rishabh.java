@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "starpattern",
+            "request": "launch",
+            "mainClass": "starpattern",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "reversepattern",
+            "request": "launch",
+            "mainClass": "reversepattern",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "k",
+            "request": "launch",
+            "mainClass": "k",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "r",
+            "request": "launch",
+            "mainClass": "r",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "j",
+            "request": "launch",
+            "mainClass": "j",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "loo",
+            "request": "launch",
+            "mainClass": "loo",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "jgh",
+            "request": "launch",
+            "mainClass": "jgh",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "jjkkk",
+            "request": "launch",
+            "mainClass": "jjkkk",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "hjk",
+            "request": "launch",
+            "mainClass": "hjk",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "iiihhh",
+            "request": "launch",
+            "mainClass": "iiihhh",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "ghj",
+            "request": "launch",
+            "mainClass": "ghj",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "fgh",
+            "request": "launch",
+            "mainClass": "fgh",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "reading",
+            "request": "launch",
+            "mainClass": "reading",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "jk",
+            "request": "launch",
+            "mainClass": "jk",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "hh",
+            "request": "launch",
+            "mainClass": "hh",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "gg",
+            "request": "launch",
+            "mainClass": "gg",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "Scannercondition",
+            "request": "launch",
+            "mainClass": "Scannercondition",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Displaying",
+            "request": "launch",
+            "mainClass": "Displaying",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "IfElseNesting",
+            "request": "launch",
+            "mainClass": "IfElseNesting",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "IfElseTest",
+            "request": "launch",
+            "mainClass": "IfElseTest",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "IfTest",
+            "request": "launch",
+            "mainClass": "IfTest",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "ScannerDemo1",
+            "request": "launch",
+            "mainClass": "ScannerDemo1",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "floatpoint",
+            "request": "launch",
+            "mainClass": "floatpoint",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "java",
+            "request": "launch",
+            "mainClass": "java",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "output",
+            "request": "launch",
+            "mainClass": "output",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "pkg",
+            "request": "launch",
+            "mainClass": "pkg",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "relationaloperators",
+            "request": "launch",
+            "mainClass": "relationaloperators",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "scanner1",
+            "request": "launch",
+            "mainClass": "scanner1",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "scannercondition",
+            "request": "launch",
+            "mainClass": "scannercondition",
+            "projectName": ".vscode_3c3ba4"
+        },
+        {
+            "type": "java",
+            "name": "ummmm",
+            "request": "launch",
+            "mainClass": "ummmm",
+            "projectName": ".vscode_3c3ba4"
+        }
+    ]
+}
